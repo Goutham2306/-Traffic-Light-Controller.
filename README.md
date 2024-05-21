@@ -41,8 +41,8 @@ For different input combinations generate the timing diagram
 # Program:
 
 # Program to implement the given logic function and to verify its operations in quartus using Verilog programming.
-# Developed by: ARIKATLA HARI VEERA PRASAD
-# RegisterNumber: 212223240014
+# Developed by: GOUTHAM.K
+# RegisterNumber: 212223110019
 ```
 module experiment (
     input clk,           // Clock input
